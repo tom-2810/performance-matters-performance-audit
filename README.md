@@ -24,6 +24,8 @@ Report from Apr 20, 2023, 7:29:51 PM
 
 ![image](https://user-images.githubusercontent.com/112861614/233443779-6f37bf89-5273-4c65-88d8-3bf5a1862631.png)
 
+[Meer op mijn Wiki](https://github.com/tom-2810/performance-matters-performance-audit/wiki)
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
